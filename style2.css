@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+}
+header img {
+    width:87px;
+    height:47px;
+    margin-left:23px;
+    margin-top:28px;
+    
+}
+header a {
+    margin-left:25px;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 30px;
+    background-color:#FFB600;
+    border-radius:10px;
+    text-decoration:none;
+    
+}
+header {
+    background-color:#0776A0;
+    height:101px;
+}
+h1 {
+    text-align:center;
+  }
+footer {
+    background-color:#024C68;
+    height:100px;
+    color:white;
+    padding-left:30px;
+    padding-bottom:30px;
+}
+footer p {
+    margin-top:36px;
+}
+.car {
+    padding-top:26px;
+}
+.dog {
+    width: 190px;
+height: 250px;
+}
+.cat {
+    width: 371px;
+height: 250px;
+}
+.sun{
+    width: 210px;
+height: 250px;
+}
+.ball {
+    width: 190px;
+height: 250px;
+}
+.tv {
+    width: 165px;
+height: 250px;
+}
+.info {
+    width: 165px;
+height: 250px;
+}
+.fox {
+    width: 175px;
+height: 250px;
+}
+.mama {
+    width: 265px;
+height: 335px;
+}
+.tato {
+    width: 530px;
+height: 335px;
+}
+.hot {
+    width: 400px;
+    height: 270px;
+}
+.cold {
+    width: 395px;
+height: 270px;
+}
+.ocean {
+    width: 400px;
+height: 270px;
+}
+.sea {
+  width: 395px;
+height: 270px;  
+}
